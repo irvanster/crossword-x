@@ -36,6 +36,7 @@ export default function MyCrossword({
 }: MyCrosswordProps): JSX.Element {
   const breakpoint = useBreakpoint();
 
+  console.log('aowkwkookw')
   return (
     <div
       className={classNames(
